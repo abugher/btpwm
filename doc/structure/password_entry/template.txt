@@ -1,0 +1,4 @@
+login-url:https://example.com/login.py
+username:jdoe
+password:123
+salt:<random stuff>

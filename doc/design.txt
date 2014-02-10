@@ -58,7 +58,7 @@ Files:
     available to yourself, but we might just punt to the user when it
     comes to installing and using the key.
 
-  - Password Files (Model A)
+  - Password Files
 
     The password file is encrypted with the master key.  Each file
     contains a password entry.  A separate torrent exists for each
@@ -90,8 +90,7 @@ Application:
       bundles.
 
     - Retrieve an identity from bittorrent/DHT given only the master
-      password.  See the Identity Directory description for the
-      mechanics.
+      password.  See the Password Entry description for the mechanics.
 
     - Make passwords available, given the master password.  In addition
       to letting a user manually invoke the program and retrieve a
